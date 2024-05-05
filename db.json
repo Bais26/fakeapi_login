@@ -1,0 +1,46 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "nama": "John Doe",
+      "nis": "1234567890",
+      "status": "lulus",
+      "password": "password1"
+    },
+    {
+      "id": "b172",
+      "nama": "Bais",
+      "nis": "22090119",
+      "status": "lulus",
+      "password": "119"
+    },
+    {
+      "id": "7a8b",
+      "nama": "pendi",
+      "nis": "22090090",
+      "status": "lulus",
+      "password": "090"
+    },
+    {
+      "id": "34c8",
+      "nama": "daffa",
+      "nis": "22090111",
+      "status": "lulus",
+      "password": "111"
+    },
+    {
+      "id": "defb",
+      "nama": "asih ",
+      "nis": "22090130",
+      "status": "lulus",
+      "password": "130    "
+    },
+    {
+      "id": "f439",
+      "nama": "asih ",
+      "nis": "22090130",
+      "status": "lulus",
+      "password": "130"
+    }
+  ]
+}
